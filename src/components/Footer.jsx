@@ -124,7 +124,7 @@ const Footer = () => {
               <div className="flex items-center text-gray-600">
                 <span>© 2024 Foodie's Hub. Made with</span>
                 <Heart className="w-4 h-4 mx-2 text-pink-500 animate-pulse" />
-                <span>by Gourav Chaudhary</span>
+                <span>by Ayush Chahal</span>
               </div>
 
               {/* Scroll to top button */}
